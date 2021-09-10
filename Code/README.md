@@ -9,5 +9,7 @@ license: Creative Commons - Attribution - Non-Commercial. More information avail
 README coming soon!
 
 Like this project?  Support further projects like this here:
+
 Patreon - https://www.patreon.com/SuperMakeSomething
+
 Buy Me A Coffee - https://www.buymeacoffee.com/SuperMakeSmthng
